@@ -53,3 +53,27 @@ This project analyzes resumes to extract and process relevant information such a
 
 3. The processed data will be saved to a CSV file named resume_dataset.csv.
 
+##  Project Structure
+  
+  resume-analysis/
+  ├── app.py
+  ├── resume_extraction.py
+  ├── requirements.txt
+  ├── uploads/
+  │   ├── resume1.pdf
+  │   ├── resume2.docx
+  │   └── ...
+  ├── education.txt
+  ├── workExp.txt
+  ├── skills.txt
+  └── README.md
+
+##  Files Description
+
+-  app.py: Main script to run the resume analysis.
+-  resume_extraction.py: Contains all the functions for text extraction, preprocessing, and feature extraction.
+-  requirements.txt: List of required Python libraries.
+-  uploads/: Directory where resumes are stored.
+-  education.txt: List of keywords related to education.
+-  workExp.txt: List of keywords related to work experience.
+-  skills.txt: List of keywords related to skills.
