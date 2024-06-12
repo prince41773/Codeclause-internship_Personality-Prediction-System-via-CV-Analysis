@@ -33,23 +33,23 @@ This project analyzes resumes to extract and process relevant information such a
 
 2. Install the required Python libraries:
 
-  ```sh
-  pip install -r requirements.txt
+   ```sh
+   pip install -r requirements.txt
 
 3. Download the necessary NLTK data:
-  ```sh
-  import nltk
-  nltk.download('punkt')
-  nltk.download('stopwords')
-  nltk.download('wordnet')
+   ```sh
+   import nltk
+   nltk.download('punkt')
+   nltk.download('stopwords')
+   nltk.download('wordnet')
 
 ## Usage
 1. Place the resumes (PDF or DOCX format) you want to analyze in the uploads folder.
 
 2. Run the app.py script:
 
-  ```sh
-  python app.py
+   ```sh
+   python app.py
 
 3. The processed data will be saved to a CSV file named resume_dataset.csv.
 
