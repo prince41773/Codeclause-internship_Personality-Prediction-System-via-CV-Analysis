@@ -55,18 +55,18 @@ This project analyzes resumes to extract and process relevant information such a
 
 ##  Project Structure
   
-  resume-analysis/
-  ├── app.py
-  ├── resume_extraction.py
-  ├── requirements.txt
-  ├── uploads/
-  │   ├── resume1.pdf
-  │   ├── resume2.docx
-  │   └── ...
-  ├── education.txt
-  ├── workExp.txt
-  ├── skills.txt
-  └── README.md
+resume-analysis/
+├── app.py
+├── resume_extraction.py
+├── requirements.txt
+├── uploads/
+│   ├── resume1.pdf
+│   ├── resume2.docx
+│   └── ...
+├── education.txt
+├── workExp.txt
+├── skills.txt
+└── README.md
 
 ##  Files Description
 
