@@ -28,8 +28,8 @@ This project analyzes resumes to extract and process relevant information such a
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/resume-analysis.git
-   cd resume-analysis
+   git clone https://github.com/prince41773/Codeclause-internship_Personality-Prediction-System-via-CV-Analysis.git
+   cd Codeclause-internship_Personality-Prediction-System-via-CV-Analysis
 
 2. Install the required Python libraries:
 
@@ -65,7 +65,7 @@ This project analyzes resumes to extract and process relevant information such a
 -  │   └── ...
 -  ├── education.txt
 -  ├── workExp.txt
-- ├── skills.txt
+-  ├── skills.txt
 -  └── README.md
 
 ##  Files Description
